@@ -18,7 +18,7 @@ export default function Home() {
             </Button>
           </div>
           <Image
-            src="/Assets/images/hero.png"
+            src="/Assets/Images/hero.png"
             alt = "hero"
             width = {1000}
             height ={1000} 
